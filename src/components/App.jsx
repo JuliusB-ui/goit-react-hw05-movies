@@ -6,7 +6,6 @@ import {HomePage} from '../Pages/HomePage/Home';
 import {MovieDetails} from './MovieDetails/MovieDetails';
 
 export const App = () => {
-
   return (
 
 <Routes>
